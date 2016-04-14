@@ -1,0 +1,28 @@
+name: ChynaHouse
+favicon: null
+layout_spectrum: 0.7433249314781278
+typography_spectrum: 0.01747062662616372
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9371674305293709
+  lightness: 0.07724147895351052
+  saturation: 0.8948667112272233
+  rhythmicContrast: 0.19712288142181933
+purpose: []
