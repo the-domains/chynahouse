@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ChynaHouse]]></title>
         <description><![CDATA[ChynaHouse]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chynahouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 07:05:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 07:06:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chynahouse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>newness</p>]]></description>
-            <link>undefinednewness/index.html</link>
+            <link>https://thegrid.ai/chynahouse/newness/index.html</link>
             <guid isPermaLink="false">25bc84c5-c20b-426b-9d52-57a16b0bed04</guid>
-            <pubDate>Thu, 14 Apr 2016 07:04:23 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2016 07:05:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
