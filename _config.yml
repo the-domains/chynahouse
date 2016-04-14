@@ -1,7 +1,7 @@
 name: ChynaHouse
 favicon: null
 layout_spectrum: 0.2308
-typography_spectrum: 0.01747062662616372
+typography_spectrum: 0.27623
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#941012'
     - '#bf1016'
     - '#671217'
-  brandStrength: 0.9371674305293709
+  brandStrength: 0.875
   lightness: 0.07724147895351052
   saturation: 0.8948667112272233
   rhythmicContrast: 0.19712288142181933
