@@ -4,7 +4,7 @@
         <description><![CDATA[ChynaHouse]]></description>
         <link>https://thegrid.ai/chynahouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 18:02:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 18:06:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chynahouse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/chynahouse/newness/index.html</link>
             <guid isPermaLink="false">25bc84c5-c20b-426b-9d52-57a16b0bed04</guid>
             <pubDate>Fri, 15 Apr 2016 18:02:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.youtube.com/watch?v=ehj8m5fCMLM</p>]]></description>
+            <link>https://thegrid.ai/chynahouse/httpswwwyoutubecomwatchvehj8m5fcmlm/index.html</link>
+            <guid isPermaLink="false">8c1b2db5-6070-4d89-8cd8-6bfc4c79113d</guid>
+            <pubDate>Fri, 15 Apr 2016 18:06:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
