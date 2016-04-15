@@ -1,6 +1,6 @@
 name: CHYHSE
 favicon: null
-layout_spectrum: 0.76045
+layout_spectrum: 0.20118
 typography_spectrum: 0
 title: null
 cta:
@@ -23,7 +23,7 @@ color:
     - '#3a3433'
     - '#8f897e'
   brandStrength: 0.5
-  lightness: 0.3125
+  lightness: 0.4375
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
