@@ -1,7 +1,7 @@
-name: CHYHSE
+name: ChynaHouse
 favicon: null
 layout_spectrum: 0.2308
-typography_spectrum: 0.12598
+typography_spectrum: 0.27623
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#bdb585'
-    - '#676767'
-    - '#3a3433'
-    - '#8f897e'
+    - '#ffffff'
+    - '#e9e8e6'
+    - '#f4f4f4'
+    - '#f8f8f8'
+    - '#efeeec'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.19712288142181933
+  rhythmicContrast: 0.5
 purpose: []
