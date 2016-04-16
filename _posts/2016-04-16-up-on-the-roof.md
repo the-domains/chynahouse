@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Up On The Roof With Kimberley Chen
-datePublished: '2016-04-16T11:25:50.468Z'
-dateModified: '2016-04-16T11:25:35.338Z'
+datePublished: '2016-04-16T11:29:10.544Z'
+dateModified: '2016-04-16T11:29:08.076Z'
 title: Up On The Roof
 author: []
 sourcePath: _posts/2016-04-16-up-on-the-roof.md
@@ -35,7 +35,4 @@ Up On The Roof With Kimberley Chen
 
 ][0]
 
-[wo hui ][1]
-
 [0]: href
-[1]:  <iframe width=
