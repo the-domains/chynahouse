@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: '"Top Bill'
-datePublished: '2016-04-16T11:16:25.167Z'
-dateModified: '2016-04-16T11:16:11.106Z'
+description: Top Bill
+datePublished: '2016-04-16T11:18:21.400Z'
+dateModified: '2016-04-16T11:18:18.173Z'
 title: SoundCloud
 author: []
+sourcePath: _posts/2016-04-16-soundcloud.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-soundcloud.md
-published: true
 url: soundcloud/index.html
-_type: Article
+_type: WebPage
 
 ---
 [
