@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[CHYHSE]]></title>
         <description><![CDATA[CHYHSE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chynahouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 11:26:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 08:11:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chynahouse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Prince's Shadiest/Divo Moments]]></title>
+            <description><![CDATA[<article><h1>Prince's Shadiest/Divo Moments</h1><p>Prince's Shadiest/Divo Moments is finally here, I hope you guys like the video. Don't forget to comment, rate, share and subscribe so you don't miss any future uploads. Coming up soon: Michael Jackson, Madonna, 5th Harmony and One Direction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7db55aef9777afe5c97c1ceafeddf9e7e1abbeb1.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=H4k-d88BEsI</link>
+            <guid isPermaLink="false">f5c06075-177d-4784-8851-31b3cf5e2391</guid>
+            <pubDate>Tue, 26 Apr 2016 08:10:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Uh huh - APE]]></title>
             <description><![CDATA[<article><h1>Uh huh - APE</h1><p>www.chynahouse.com www.apekao.com https://soundcloud.com/scfchynahouse/sets/ape19930808</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/000e5b2dca49b1ff0f47c2452e5567ad6ad9e9a9.jpg"></article>]]></description>
