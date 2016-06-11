@@ -1,7 +1,7 @@
 name: CHYHSE
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.22872
+layout_spectrum: 0.24496
+typography_spectrum: 0.14483
 title: CHYHSE
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#d4d4d4'
-    - '#676767'
-    - '#aaa8a9'
-    - '#454243'
+    - '#030303'
+    - '#bdb585'
+    - '#686868'
+    - '#8e8873'
+    - '#37352a'
   brandStrength: 0.5
   lightness: 0.4375
   saturation: 0.5
