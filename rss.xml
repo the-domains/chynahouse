@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[CHYHSE]]></title>
         <description><![CDATA[CHYHSE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chynahouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 15:29:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 29 Jun 2016 15:29:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chynahouse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[完美女人 - APE by ChynaHouse]]></title>
+            <description><![CDATA[<article><h1>完美女人 - APE by ChynaHouse</h1><p>www.apekao.com www.chynahouse.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f466b5103d4d00a81bc3f1fcf849244c8f8e49b4.jpg"></article>]]></description>
+            <link>https://soundcloud.com/scfchynahouse/ape-1</link>
+            <guid isPermaLink="false">0a3e9d63-49eb-479a-b402-3d7bb85703bd</guid>
+            <pubDate>Wed, 29 Jun 2016 15:29:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[H.E.N.R.Y by ChynaHouse]]></title>
             <description><![CDATA[<article><h1>H.E.N.R.Y by ChynaHouse</h1><p>H.E.N.R.Y High Earner Not Rich Yet produced by terrytyelee music by terrytyelee / red dragon</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a42b1f8077afa169cc779afa0569f9307e9a8b9.jpg"></article>]]></description>
